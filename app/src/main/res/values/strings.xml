@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TravelPackingListApp</string>
+    <string name="title_travel_packing_list">Travel Packing List</string>
+    <string name="subtitle_pack_smart">Pack Smart, Travel Happy</string>
+    <string name="header_add_to_list">Add To Packing List</string>
+    <string name="hint_item_name">Item Name</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_quantity">Quantity</string>
+    <string name="hint_comments">Comments</string>
+    <string name="btn_add_to_list">ADD TO PACKING LIST</string>
+    <string name="btn_view_list">VIEW PACKING LIST</string>
+    <string name="btn_exit_app">EXIT APP</string>
+</resources>
